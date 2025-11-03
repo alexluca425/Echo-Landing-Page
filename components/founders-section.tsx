@@ -1,16 +1,16 @@
 export function Founders() {
   const founders = [
     {
-      name: "Dennis",
-      role: "CEO",
-      image: "/DennyPunk.png",
-      //bio: "Marketing & psychology background; grew Notion templates to $8k in month one. Focuses on voice UX, product, and growth.",
-    },
-    {
       name: "Alex",
       role: "CTO",
       image: "/AlexPunk.png",
       bio: "\"This app is gonna change how people aim to become 1% better each day.\"",
+    },
+    {
+      name: "Dennis",
+      role: "CEO",
+      image: "/DennyPunk.png",
+      //bio: "Marketing & psychology background; grew Notion templates to $8k in month one. Focuses on voice UX, product, and growth.",
     },
     {
       name: "Vlad",
